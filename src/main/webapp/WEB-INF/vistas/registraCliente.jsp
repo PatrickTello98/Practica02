@@ -15,7 +15,7 @@
 <body>
 
 <div class="container">
-<h3>Registra Modalidad</h3>
+<h3>Registra Cliente</h3>
 	
 	<form  id="id_form" method="post"> 
 	 <div class="col-md-12" style="margin-top: 2%">
